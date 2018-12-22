@@ -4,6 +4,8 @@
 
 > Error constructor for test and validation frameworks that implements standardized AssertionError specification.
 
+Ported from https://github.com/chaijs/assertion-error
+
 ## Usage
 
 ```ts
