@@ -9,5 +9,5 @@ Ported from https://github.com/chaijs/assertion-error
 ## Usage
 
 ```ts
-import { AssertionError } from 'https://raw.githubusercontent.com/denolib/assertion_error/master/index.ts'
+import { AssertionError } from "https://raw.githubusercontent.com/denolib/assertion_error/master/index.ts";
 ```
