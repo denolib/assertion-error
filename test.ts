@@ -1,4 +1,4 @@
-import { assertEqual, equal } from "https://deno.land/x/testing/testing.ts";
+import { assertEqual, equal } from "https://deno.land/x/testing/mod.ts";
 import { t } from "https://raw.githubusercontent.com/zhmushan/deno_test/master/index.ts";
 import { AssertionError } from "index.ts";
 
